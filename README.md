@@ -1,6 +1,6 @@
 ### Hi, I'm Hadad 👋 🚀
 
-![profile](https://github.com/dusmel/dusmel/raw/master/preview.gif)
+![profile](https://github.com/dusmel/dusmel/raw/master/previewable.gif)
 
 - 🤓 I’m currently working on: An opinionated CLI to generate redux boilerplate
 - 🌱 I’m currently learning: everything ruby that is not rails
